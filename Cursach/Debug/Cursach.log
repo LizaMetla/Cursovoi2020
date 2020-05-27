@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  main.cpp
+e:\my\bsuir\old\cur_oop\cursach\cursach\helper.h(29): warning C4018: <: несоответствие типов со знаком и без знака
+e:\my\bsuir\old\cur_oop\cursach\cursach\helper.h(130): warning C4018: <: несоответствие типов со знаком и без знака
+e:\my\bsuir\old\cur_oop\cursach\cursach\store.h(68): warning C4018: <: несоответствие типов со знаком и без знака
+e:\my\bsuir\old\cur_oop\cursach\cursach\store.h(91): warning C4018: <: несоответствие типов со знаком и без знака
+e:\my\bsuir\old\cur_oop\cursach\cursach\store.h(108): warning C4018: <: несоответствие типов со знаком и без знака
+e:\my\bsuir\old\cur_oop\cursach\cursach\store.h(122): warning C4018: <: несоответствие типов со знаком и без знака
+e:\my\bsuir\old\cur_oop\cursach\cursach\access.h(46): warning C4018: <: несоответствие типов со знаком и без знака
+e:\my\bsuir\old\cur_oop\cursach\cursach\access.h(207): warning C4018: <: несоответствие типов со знаком и без знака
+  Cursach.vcxproj -> E:\My\Bsuir\Old\Cur_OOP\Cursach\Debug\Cursach.exe

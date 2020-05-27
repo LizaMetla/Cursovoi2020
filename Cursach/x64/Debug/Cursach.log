@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\cursach\cursach\helper.h(172): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\cursach\cursach\main.cpp(199): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\cursach\cursach\main.cpp(448): warning C4715: main_menu: значение возвращается не при всех путях выполнения
+  Cursach.vcxproj -> C:\Cursach\x64\Debug\Cursach.exe
